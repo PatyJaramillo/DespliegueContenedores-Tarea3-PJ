@@ -70,6 +70,8 @@ La tarea contiene los siguientes archivos:
    <img width="567" height="319" alt="image" src="https://github.com/user-attachments/assets/83ded223-033c-4772-922e-6d6317afbec7" />
 
    <img width="567" height="319" alt="image" src="https://github.com/user-attachments/assets/018a4588-0dc8-47c4-96ef-788919e2ef33" />
+
+   <img width="567" height="319" alt="image" src="https://github.com/user-attachments/assets/60a18572-19ed-4cbb-9d1d-18f493fcc3af" />
    
 8. Resultado del análisis del Docker Scout
 
@@ -84,7 +86,8 @@ La tarea contiene los siguientes archivos:
 
 9. Validar la creación de la imagen en el Docker Hub
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/45c1d5d3-71f5-42ef-9b8e-e03b9dc98e8a" />
+  <img width="567" height="319" alt="image" src="https://github.com/user-attachments/assets/54235124-554e-4cc3-90f6-fc785cf89558" />
+
 
 <br/>
 
