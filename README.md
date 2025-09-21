@@ -62,17 +62,16 @@ La tarea contiene los siguientes archivos:
 
 5. Definir la orquestación para analizar la imagen de fast-api indicando el nombre de la imagen con la cual se creará el repositorio en el Docker Hub
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/2db20e34-8df8-4221-88dd-1c4848e571be" />
+   <img width="567" height="319" alt="image" src="https://github.com/user-attachments/assets/a34b6cf7-3c1e-4ad4-9cb2-a1d78c4d2513" />
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/5ea3d780-62ff-4cb9-994d-b10e5269d9e4" />
 
 6. Validar la ejecución del workflow
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/bd0c2e3a-34a7-4a7e-af22-1044f4445011" />
+   <img width="567" height="319" alt="image" src="https://github.com/user-attachments/assets/83ded223-033c-4772-922e-6d6317afbec7" />
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/9f392fd0-ba39-44c4-aaf8-a2d7dcca44ee" />
-
-7. Resultado del análisis del Docker Scout
+   <img width="567" height="319" alt="image" src="https://github.com/user-attachments/assets/018a4588-0dc8-47c4-96ef-788919e2ef33" />
+   
+8. Resultado del análisis del Docker Scout
 
    ```
    ...Storing image for indexing
@@ -83,7 +82,7 @@ La tarea contiene los siguientes archivos:
     ✓ Report written to json
    ```
 
-8. Validar la creación de la imagen en el Docker Hub
+9. Validar la creación de la imagen en el Docker Hub
 
    <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/45c1d5d3-71f5-42ef-9b8e-e03b9dc98e8a" />
 
