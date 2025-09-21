@@ -1,4 +1,4 @@
-# Curso: Despliegue de aplicaciones con Docker<br/>CEC-EPN<br/><br/>Tarea 1:  Despliegue en Docker de phpMyAdmin
+# Curso: Despliegue de aplicaciones con Docker<br/>CEC-EPN<br/><br/>Tarea 3:  Análisis de vulnerabilidades con Docker Scout
 
 ![Lenguaje][lngsrv-shield]
 ![Servidor de contenedores][cont-shield]
@@ -52,9 +52,9 @@ La tarea contiene los siguientes archivos:
 
 4. Definir las variables de entorno con las credenciales del Git Hub de cada integrante del Grupo 3
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/066a87f3-92f8-44f5-9d57-8cdc0f2dce2b" />
+<img width="567" height="319" alt="image" src="https://github.com/user-attachments/assets/5831c4cd-6b15-4a4e-85f2-63425052c1f7" />
 
-   <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/217424ac-527d-4c54-bdf6-46fe85c49af7" />
+<img width="567" height="319" alt="image" src="https://github.com/user-attachments/assets/614c48a2-1f12-497d-8b1f-463813acfde4" />
 
 5. Construir el workflow del `Docker Scout`
 
